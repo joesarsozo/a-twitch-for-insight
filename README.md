@@ -1,5 +1,6 @@
 # a-twitch-for-insight
 Hello and welcome to our CSE163 Final Project! This project explores data pulled from twitch that deals with **Top Streamers** and **Top Games** being streamed. Using data we hoped to answer our research questions and find any insights and correlations between the two.
+GitHub [***Link Here***](https://github.com/joesarsozo/a-twitch-for-insight)
 
 ## Instructions
 1. Download Python and a compiler or an IDE such as **PyCharm**, **VS Code** **etc..** if don't already have those installed.
